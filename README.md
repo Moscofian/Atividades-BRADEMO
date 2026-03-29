@@ -28,6 +28,8 @@ dart run <nome do arquivo>
 - [Exercício 4 - Named Constructors](AtvAula02/Exercicio04.dart)
 - [Exercício 5 - Cadastro de Casas com Lista](AtvAula02/Exercicio05.dart)
 
+---
+
 ### Aula 03
 Use o comando abaixo na pasta da [aula 03](AtvAula03/atividade_aula_03/) e rode o comando:
 
@@ -39,5 +41,18 @@ flutter run -d web-server
 - [Exercício 3 - Widgets Sobrepostos](AtvAula03/atividade_aula_03/lib/exercicio3.dart)
 - [Exercício 4 - Imagens de Tamanhos variados](AtvAula03/atividade_aula_03/lib/exercicio4.dart)
 - [Exercício 5 - Tutorial de Layout](AtvAula03/atividade_aula_03/lib/exercicio5.dart)
+
+---
+
+### Aula 04
+Use o comando abaixo na pasta da [aula 04](AtvAula03/atividade_aula_04/) e rode o comando:
+
+``` bash
+flutter run -d web-server
+```
+
+- [Exercício 1 - ThemeData Azul](AtvAula03/atividade_aula_04/lib/exercicio1.dart)
+- [Exercício 2 - ThemeData Sobrescrito](AtvAula03/atividade_aula_04/lib/exercicio2.dart)
+- [Exercício 3 - Login e Tela de Boas Vindas](AtvAula03/atividade_aula_04/lib/exercicio3.dart)
 
 ---
