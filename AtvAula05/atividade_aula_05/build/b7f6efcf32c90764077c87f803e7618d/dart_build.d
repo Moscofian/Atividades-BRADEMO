@@ -1,0 +1,1 @@
+ C:\\Users\\lucas\\OneDrive\\Área\ de\ Trabalho\\Programacao\\Flutter\\Atividades-BRADEMO\\AtvAula05\\atividade_aula_05\\build\\b7f6efcf32c90764077c87f803e7618d\\dart_build_result.json: 

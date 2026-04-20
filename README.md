@@ -45,14 +45,30 @@ flutter run -d web-server
 ---
 
 ### Aula 04
-Use o comando abaixo na pasta da [aula 04](AtvAula03/atividade_aula_04/) e rode o comando:
+Use o comando abaixo na pasta da [aula 04](AtvAula04/atividade_aula_04/) e rode o comando:
 
 ``` bash
 flutter run -d web-server
 ```
 
-- [Exercício 1 - ThemeData Azul](AtvAula03/atividade_aula_04/lib/exercicio1.dart)
-- [Exercício 2 - ThemeData Sobrescrito](AtvAula03/atividade_aula_04/lib/exercicio2.dart)
-- [Exercício 3 - Login e Tela de Boas Vindas](AtvAula03/atividade_aula_04/lib/exercicio3.dart)
+- [Exercício 1 - ThemeData Azul](AtvAula04/atividade_aula_04/lib/exercicio1.dart)
+- [Exercício 2 - ThemeData Sobrescrito](AtvAula04/atividade_aula_04/lib/exercicio2.dart)
+- [Exercício 3 - Login e Tela de Boas Vindas](AtvAula04/atividade_aula_04/lib/exercicio3.dart)
+
+---
+
+### Aula 05
+Use o comando abaixo na pasta da [aula 05](AtvAula05/atividade_aula_05/) e rode o comando:
+
+``` bash
+flutter run -d web-server
+```
+
+- [Exercício 1 - GridView](AtvAula05/atividade_aula_05/lib/exercicio1.dart)
+- [Exercício 2 - Responsividade](AtvAula05/atividade_aula_05/lib/exercicio2.dart)
+- [Exercício 3 - Restrições de Layout](AtvAula05/atividade_aula_05/lib/exercicio3.dart)
+- [Exercício 4 - Form](AtvAula05/atividade_aula_05/lib/exercicio4.dart)
+- [Exercício 5 - FloatingActionButton](AtvAula05/atividade_aula_05/lib/exercicio5.dart)
+- [Exercício 6 - Lista de Tarefas](AtvAula05/atividade_aula_05/lib/exercicio6.dart)
 
 ---
