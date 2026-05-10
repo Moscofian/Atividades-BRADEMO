@@ -72,3 +72,20 @@ flutter run -d web-server
 - [Exercício 6 - Lista de Tarefas](AtvAula05/atividade_aula_05/lib/exercicio6.dart)
 
 ---
+
+### Aula 06
+Use o comando abaixo na pasta da [aula 06](AtvAula06/atividade_aula_06/) e rode os comandos:
+
+``` bash
+# Para os exs 01 e 02
+dart run <nome do arquivo>
+
+# Para o ex 03
+flutter run -d web-server
+```
+
+- [Exercício 1 - Async & Await](AtvAula06/atividade_aula_06/lib/exercicio1.dart)
+- [Exercício 2 - Handling errors](AtvAula06/atividade_aula_06/lib/exercicio2.dart)
+- [Exercício 3 - GUI com CRUD](AtvAula06/atividade_aula_06/lib/exercicio3.dart)
+
+---
