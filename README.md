@@ -31,7 +31,7 @@ dart run <nome do arquivo>
 ---
 
 ### Aula 03
-Use o comando abaixo na pasta da [aula 03](AtvAula03/atividade_aula_03/) e rode o comando:
+Use o comando abaixo na pasta da [aula 03](AtvAula03/atividade_aula_03/) para executar o código:
 
 ``` bash
 flutter run -d web-server
@@ -45,7 +45,7 @@ flutter run -d web-server
 ---
 
 ### Aula 04
-Use o comando abaixo na pasta da [aula 04](AtvAula04/atividade_aula_04/) e rode o comando:
+Use o comando abaixo na pasta da [aula 04](AtvAula04/atividade_aula_04/) para executar o código:
 
 ``` bash
 flutter run -d web-server
@@ -58,7 +58,7 @@ flutter run -d web-server
 ---
 
 ### Aula 05
-Use o comando abaixo na pasta da [aula 05](AtvAula05/atividade_aula_05/) e rode o comando:
+Use o comando abaixo na pasta da [aula 05](AtvAula05/atividade_aula_05/) para executar o código:
 
 ``` bash
 flutter run -d web-server
@@ -74,7 +74,7 @@ flutter run -d web-server
 ---
 
 ### Aula 06
-Use o comando abaixo na pasta da [aula 06](AtvAula06/atividade_aula_06/) e rode os comandos:
+Use o comando abaixo na pasta da [aula 06](AtvAula06/atividade_aula_06/) para executar o código:
 
 ``` bash
 # Para os exs 01 e 02
@@ -87,5 +87,18 @@ flutter run -d web-server
 - [Exercício 1 - Async & Await](AtvAula06/atividade_aula_06/lib/exercicio1.dart)
 - [Exercício 2 - Handling errors](AtvAula06/atividade_aula_06/lib/exercicio2.dart)
 - [Exercício 3 - GUI com CRUD](AtvAula06/atividade_aula_06/lib/exercicio3.dart)
+
+---
+
+### Aula 06
+Use o comando abaixo na pasta da [aula 07](AtvAula07/atividade_aula_07/) para executar o código:
+
+``` bash
+flutter run -d web-server
+```
+
+- [Exercício 1 - Modo Relax/Focado](AtvAula07/atividade_aula_07/lib/exercicio1.dart)
+- [Exercício 2 - Contador](AtvAula07/atividade_aula_07/lib/exercicio2.dart)
+- [Exercício 3 - To do list](AtvAula07/atividade_aula_07/lib/exercicio3.dart)
 
 ---
