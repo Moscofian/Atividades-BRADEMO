@@ -90,7 +90,7 @@ flutter run -d web-server
 
 ---
 
-### Aula 06
+### Aula 07
 Use o comando abaixo na pasta da [aula 07](AtvAula07/atividade_aula_07/) para executar o código:
 
 ``` bash
@@ -100,5 +100,16 @@ flutter run -d web-server
 - [Exercício 1 - Modo Relax/Focado](AtvAula07/atividade_aula_07/lib/exercicio1.dart)
 - [Exercício 2 - Contador](AtvAula07/atividade_aula_07/lib/exercicio2.dart)
 - [Exercício 3 - To do list](AtvAula07/atividade_aula_07/lib/exercicio3.dart)
+
+---
+
+### Aula 08
+Troque o texto "YOUR_API_KEY_HERE" no arquivo [index.html](AtvAula08\atividade_aula_08\web) sua chave da api e use o comando abaixo na pasta da [aula 08](AtvAula08/atividade_aula_08/) para executar o código:
+
+``` bash
+flutter run -d web-server
+```
+
+- [Exercício 1 - Mapa](AtvAula08/atividade_aula_08/lib/main.dart)
 
 ---
